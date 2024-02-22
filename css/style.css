@@ -75,10 +75,12 @@
 .second-section {
     display: flex;
     height: 500px;
+    justify-content: center;
 }
 
 .second-row {
     display: flex;
+    align-items: center;
 }
 
 .second-section-lcol {
