@@ -129,5 +129,31 @@
 
 /* /third section */
 
+/* fourth section */
 
+.fourth-section {
+    display: flex;
+    height: 500px;
+    justify-content: center;
+}
 
+.fourth-row {
+    display: flex;
+    align-items: center;
+}
+
+.fourth-section-lcol {
+    height: 450px;
+    width: 60%;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.fourth-section-rcol {
+    height: 450px;
+    width: 40%;
+    background-color: pink;
+    border: 1px solid black;
+}
+
+/* /fourth section */
