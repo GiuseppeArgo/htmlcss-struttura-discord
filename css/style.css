@@ -66,6 +66,7 @@
     height: 350px;
     background-color: purple;
     width: 40%;
+    border: 1px solid black;
 }
 
 /* /first section */
@@ -157,3 +158,21 @@
 }
 
 /* /fourth section */
+
+/* fifth section */
+
+.fifth-section {
+    height: 900px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fifth-section-content {
+    height: 850px;
+    background-color: green;
+    border: 1px solid black;
+}
+
+/* /fifth section */
