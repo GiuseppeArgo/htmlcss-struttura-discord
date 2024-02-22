@@ -3,3 +3,48 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* common */
+.container {
+    width: 60%
+}
+
+/* /common */
+
+.header {
+    background-color: #add8e6;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+.header-content {
+    height: 50px;
+    background-color: #daa520;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    width: 25%;
+    justify-content: left;
+}
+
+.link {
+    width: 50%;
+    justify-content: center;
+}
+
+.login {
+    width: 25%;
+    justify-content: right;
+}
