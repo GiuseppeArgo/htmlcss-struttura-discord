@@ -48,3 +48,23 @@
     width: 25%;
     justify-content: right;
 }
+
+/* main */
+
+/* first section */
+
+.first-section {
+    height: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-section-content {
+    height: 350px;
+    background-color: pink;
+    width: 40%;
+}
+
+/* /first section */
