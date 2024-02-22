@@ -21,12 +21,12 @@
     align-items: center;
 }
 
-.header-container {
+.header-row {
     display: flex;
     align-items: center;
 }
 
-.header-content {
+.col {
     height: 50px;
     background-color: #daa520;
     border: 1px solid black;
